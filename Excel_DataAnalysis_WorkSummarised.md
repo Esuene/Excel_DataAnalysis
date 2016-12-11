@@ -1,5 +1,6 @@
 # Excel_DataAnalysis: *Repo for data analysis practice using Microsoft Excel*
 
-## Practice projects:
-* Using Data from Kaggle, in .csv format
-	+ "Titanic Survival data set" from *Titanic*: *Machine Learning from Disaster* *(https://www.kaggle.com/c/titanic/data) *
+## Practice projects, using data from:
+* Kaggle *(https://www.kaggle.com/) *
+	+ "Titanic Survival data set (.csv)" from *Titanic*: *Machine Learning from Disaster* (https://www.kaggle.com/c/titanic/data)
+	+ *etc.*
